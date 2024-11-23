@@ -34,4 +34,4 @@ Additional libraries or dependencies will be detailed in the respective script f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/electrical-circuit-analysis.git
+   git clone https://github.com/FhelipeAllves/Analysis-of-electrical-circuits.git
